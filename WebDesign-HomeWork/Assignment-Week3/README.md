@@ -12,7 +12,7 @@
 
 
 
-  Highlight words: 
+  **Highlight words:**
   1. Justice
   2. Liberation
   3. Resistance
