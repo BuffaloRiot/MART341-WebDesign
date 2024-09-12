@@ -24,4 +24,5 @@
   9. Solidarty
   10. Sovereignty
 
-[Buffalo Riot](
+![Buffalo Riot](./Images/IMG_5060.jpg)
+
