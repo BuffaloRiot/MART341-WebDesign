@@ -25,7 +25,9 @@
   10. Sovereignty
 
 
-[Buffalo Riot](
+![Buffalo Riot](https://github.com/BuffaloRiot/MART341-WebDesign/blob/main/WebDesign-HomeWork/Assignment-Week3/IMG_5060.jpg)
+
+
 
 
 
