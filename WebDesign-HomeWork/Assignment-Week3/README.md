@@ -1,6 +1,6 @@
 # Welcome to my world
 
-## Hello my name is **Bufflo Riot**
+## Hello my name is **Buffalo Riot**
 
   Im an Inidgenous Two-Spirit Artist rooted in Justice, Liberation and Resistance. I'm *Blackfeet, Assiniboine and FortPeck Sioux* but culturally rasied with the *Lakota people*. Some may call me a mutt but I like to consider myself a baby of the warrior people. I do not only come from one tribe, I come from many. Inspiring me to be proud of the people I come from and their stories of survival. 
 
