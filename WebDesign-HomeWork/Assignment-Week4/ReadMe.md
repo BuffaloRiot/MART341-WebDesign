@@ -35,5 +35,6 @@ Your index.html should also be placed in the root director of the website since 
 
 # Review: What are the top naming practices for clean and organized code? 
 
-Using README.md for anotation and a guide with in files=
-Nameing files logically and using the proper file extensions, along with avoiding miltple subdirectories. 
+Using README.md for anotation and a guide with in files
+Nameing files logically and using the proper file extensions
+avoiding multiple subdirectories. 
