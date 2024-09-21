@@ -21,11 +21,11 @@ XHTML is used to bridge the relations of HTML and XML, combing the creativity/st
 ### -4 Elements every HTML page needs?_
 _1._ <!Doctype>
 
-_2._ <root>
+_2._ root
 
-_3._ <head>
+_3._ head
 
-_4._ <body>
+_4._ body
 
 ### _What's the purpose of the index.html/Where should it be placed?_
 
