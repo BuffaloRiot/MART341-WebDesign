@@ -19,13 +19,13 @@ XHTML is used to bridge the relations of HTML and XML, combing the creativity/st
 
 
 ### _4 Elements every HTML page needs?_
-_1._ <!Doctype>
+_1._ Doctype
 
-_2._ <root>
+_2._ root
 
-_3._ <head>
+_3._ head
 
-_4._ <body>
+_4._ body
 
 ### _What's the purpose of the index.html/Where should it be placed?_
 
@@ -33,7 +33,7 @@ The index.html is the master file of a website, also know as your homepage and i
 
 Your index.html should also be placed in the root director of the website since this will be the main folder for storing other files. 
 
-###Review: What are the top naming practices for clean and organized code? 
+#Review: What are the top naming practices for clean and organized code? 
 
 Using README.md for anotation and a guide with in files=
 Nameing files logically and using the proper file extensions, along with avoiding miltple subdirectories. 
