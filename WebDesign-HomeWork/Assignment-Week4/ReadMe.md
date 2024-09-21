@@ -18,14 +18,14 @@ XML describes document noeds, allowing information to update without having to r
 XHTML is used to bridge the relations of HTML and XML, combing the creativity/structure of HTML, with specificiness of XHTML to correct some of lacks of HTML 
 
 
-### -4 Elements every HTML page needs?_
+### _4 Elements every HTML page needs?_
 _1._ <!Doctype>
 
-_2._ root
+_2._ <root>
 
-_3._ head
+_3._ <head>
 
-_4._ body
+_4._ <body>
 
 ### _What's the purpose of the index.html/Where should it be placed?_
 
