@@ -48,13 +48,14 @@ p{
 
 .photoshoot-container{
 
-            width: 30%;
+            width: 33s%; 
             padding:15px;
             margin: 20px;
             background-color: black;
             box-sizing: border-box;
             text-align: center;
             border-color: white;
+            display: flex;
 
 
 }
@@ -62,8 +63,8 @@ p{
 
 .photo-shoots{
 
-            width: 100%;
+            width: 33%;
             height: auto;
-            display: 
+
 
 }

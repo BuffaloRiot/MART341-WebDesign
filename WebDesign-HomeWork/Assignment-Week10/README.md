@@ -14,7 +14,7 @@ Css Discription :
 
 Headings -
 
-I have used css to stylize h1, h2 and the background of my title card. Creating this code had helped 
+I have used css to stylize h1, h2 and the background of my title card. My Creating this code had helped 
 
 
 Paragrahs + Art Discripton: 
