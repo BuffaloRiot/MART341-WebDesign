@@ -11,10 +11,28 @@ body{
 
 h1{
     font-size: 100px; 
-    font-color: white;
     text-align: center;
+    color: white;
 }
 
+
+h2{
+    fontsize: 100px;
+    color: white;
+
+}
+
+
+h3{
+
+}
+
+
+p{
+    font-size: 12%;
+    text-align: center;
+    color:white
+}
 
 
 .heading-container{
@@ -23,8 +41,7 @@ h1{
     background-color: black;
     border-style: solid;
     border-width: 5px;
-    border-color:white;
-
+    border-color: white;
 
 }
 
@@ -34,9 +51,10 @@ h1{
             width: 30%;
             padding:15px;
             margin: 20px;
-            background-color: white;
+            background-color: black;
             box-sizing: border-box;
             text-align: center;
+            border-color: white;
 
 
 }
@@ -46,6 +64,6 @@ h1{
 
             width: 100%;
             height: auto;
-            displa
+            display: 
 
 }
