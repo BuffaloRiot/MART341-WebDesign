@@ -1,6 +1,6 @@
 
 
-
+/* these are all my CSS stylizing functions*/
 
 body{
 
@@ -29,11 +29,12 @@ h3{
 
 
 p{
-    font-size: 12%;
+    font-size: 25px;
     text-align: center;
     color:white
 }
 
+/* This is title background specs*/
 
 .heading-container{
 
@@ -46,6 +47,8 @@ p{
 }
 
 
+
+/* These are my photo section specs*/
 .photoshoot-container{
 
             width: 30%; 
@@ -57,7 +60,8 @@ p{
             border-color: white;
             border-style: solid;
             border-width: 5px;
-            float left;
+            float: left;
+           
 
 
 
@@ -68,4 +72,7 @@ p{
 
             width: 100%;
             height: auto;
+            display; block;
 }
+
+

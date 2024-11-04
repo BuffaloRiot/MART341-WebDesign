@@ -14,12 +14,12 @@ Css Discription :
 
 Headings -
 
-I have used css to stylize h1, h2 and the background of my title card. My Creating this code had helped 
+I have used css to stylize h1, h2 and the background of my title card. This type of styling has allowed my main index.html stay pretty clean and access styling in one hub. 
 
 
 Paragrahs + Art Discripton: 
 
-I stylized my paragraphs in CSS to make text discriptions the same through out the display of images!  
+I stylized the title of the photos and the display of them in boxes in CSS. 
 
 
 Art Display -
