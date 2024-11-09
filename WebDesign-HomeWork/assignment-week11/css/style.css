@@ -1,0 +1,77 @@
+
+/* these are all my CSS stylizing functions*/
+
+body{
+
+    background-color: #123024;  /* Color man: Phthalo*/
+    
+}
+
+
+h1{
+font-size: 100px; 
+text-align: center;
+color: white;
+}
+
+
+h2{
+font-size: 25px;
+color: white;
+
+}
+
+
+h3{
+
+}
+
+
+p{
+font-size: 25px;
+text-align: center;
+color:white
+}
+
+/* This is title background specs*/
+
+.heading-container{
+
+width: 100%;
+background-color: black;
+border-style: solid;
+border-width: 5px;
+border-color: white;
+
+}
+
+
+
+/* These are my photo section specs*/
+.photoshoot-container{
+
+        width: 30%; 
+        padding: 15px 30px 30px 30px;
+        margin: 20px;
+        background-color: black;
+        box-sizing: border-box;
+        text-align: center;
+        border-color: white;
+        border-style: solid;
+        border-width: 5px;
+        float: left;
+       
+
+
+
+}
+
+
+.photo img{
+
+        width: 100%;
+        height: auto;
+        display; block;
+}
+
+
