@@ -4,7 +4,7 @@
 
 @font-face {
     font-family: 'winter-resistance';
-    src: url('C:\Users\sonic\Desktop\MART341-WebDesign\WebDesign-HomeWork\assignment-week11\fonts\Winter Resistance.otf') format('opentype')
+    src: url('C:\Users\sonic\Desktop\MART341-WebDesign\WebDesign-HomeWork\assignment-week11\fonts\winter-resistance.otf') format('Opentype');
     font-weight: 900;
    
     }
@@ -12,8 +12,8 @@
 
 @font-face {
     font-family: 'my-skinny-jeans';
-    src: url('C:\Users\sonic\Desktop\MART341-WebDesign\WebDesign-HomeWork\assignment-week11\fonts\MySkinnyJeans.ttf') format('truetype')
-    font-weight: 100;
+    src: url('C:\Users\sonic\Desktop\MART341-WebDesign\WebDesign-HomeWork\assignment-week11\fonts\myskinnyjeans.ttf') format('Opentype');
+    font-weight: 400;
     
     
 }
