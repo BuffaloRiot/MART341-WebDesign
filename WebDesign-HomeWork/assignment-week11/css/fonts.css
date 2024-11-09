@@ -1,0 +1,19 @@
+
+/* These are my font specs */ 
+
+
+@font-face {
+    font-family: 'winter-resistance';
+    src: url('C:\Users\sonic\Desktop\MART341-WebDesign\WebDesign-HomeWork\assignment-week11\fonts\Winter Resistance.otf') format('opentype')
+    font-weight: 900;
+   
+    }
+
+
+@font-face {
+    font-family: 'my-skinny-jeans';
+    src: url('C:\Users\sonic\Desktop\MART341-WebDesign\WebDesign-HomeWork\assignment-week11\fonts\MySkinnyJeans.ttf') format('truetype')
+    font-weight: 100;
+    
+    
+}
