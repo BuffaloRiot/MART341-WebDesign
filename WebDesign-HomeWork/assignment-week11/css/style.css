@@ -12,26 +12,43 @@ h1{
 font-family: 'winter resistance';
 font-size: 150px; 
 text-align: center;
-color: white;
+color: #123024;
 letter-spacing: 10px;
 }
 
 
 h2{
-font-family: 'clean-up-your-mess';
-font-size: 25px;
+font-family: 'clean up your mess';
+font-size: 50px;
 color: white;
+letter-spacing: 10px
+}
+
+h2:hover{
+       
 }
 
 
+h3{
+        font-family: 'clean up your mess';
+        font-size: 30px;
+        text-align: center;
+        color:white;
+}
 
 
 p{
-font-family: 'clean-up-your-mess';
-font-size: 25px;
+font-family: 'clean up your mess';
+font-size: 50px;
 text-align: center;
 color:white;
 text-decoration: underline;
+}
+
+p:hover{
+
+        color: #123024;
+        text-decoration:line-through;
 }
 
 
