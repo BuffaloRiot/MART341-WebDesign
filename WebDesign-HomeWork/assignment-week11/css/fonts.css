@@ -4,16 +4,15 @@
 
 @font-face {
     font-family: 'winter-resistance';
-    src: url('C:\Users\sonic\Desktop\MART341-WebDesign\WebDesign-HomeWork\assignment-week11\fonts\winter-resistance.otf') format('Opentype');
+    src: url('C:\Users\sonic\Desktop\MART341-WebDesign\WebDesign-HomeWork\assignment-week11\fonts\winter-resistance.otf') format('opentype');
     font-weight: 900;
    
     }
 
 
 @font-face {
-    font-family: 'my-skinny-jeans';
-    src: url('C:\Users\sonic\Desktop\MART341-WebDesign\WebDesign-HomeWork\assignment-week11\fonts\myskinnyjeans.ttf') format('Opentype');
+    font-family: 'clean-up-your-mess';
+    src: url('C:\Users\sonic\Desktop\MART341-WebDesign\WebDesign-HomeWork\assignment-week11\fonts\clean-up-yourmess.ttf') format('truetype');
     font-weight: 400;
-    
     
 }
