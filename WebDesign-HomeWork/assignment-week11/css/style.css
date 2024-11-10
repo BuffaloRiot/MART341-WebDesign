@@ -7,6 +7,7 @@ body{
     
 }
 
+/* Main title*/
 
 h1{
 font-family: 'winter resistance';
@@ -17,6 +18,8 @@ letter-spacing: 10px;
 }
 
 
+/*  SubTitle "Natures Creation */
+
 h2{
 font-family: 'clean up your mess';
 font-size: 50px;
@@ -24,9 +27,7 @@ color: white;
 letter-spacing: 10px
 }
 
-h2:hover{
-       
-}
+/* Artist Credit*/
 
 
 h3{
@@ -36,7 +37,13 @@ h3{
         color:white;
 }
 
+h3:hover{
+        text-decoration: underline;
+ }
 
+
+
+/* Name of photos*/
 p{
 font-family: 'clean up your mess';
 font-size: 50px;
@@ -50,6 +57,8 @@ p:hover{
         color: #123024;
         text-decoration:line-through;
 }
+
+
 
 
 /* This is title background specs*/
