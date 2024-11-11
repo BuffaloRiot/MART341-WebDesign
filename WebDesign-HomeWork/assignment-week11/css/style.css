@@ -2,9 +2,7 @@
 /* these are all my CSS stylizing functions*/
 
 body{
-
-    background-color: #123024;  /* Color man: Phthalo*/
-    
+    background-color: #123024;  /* Color name: Phthalo*/  
 }
 
 /* Main title*/
@@ -96,7 +94,7 @@ border-color: white;
 
         width: 100%;
         height: auto;
-        display; block;
+        display: block;
 }
 
 
