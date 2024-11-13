@@ -7,7 +7,7 @@ body{
 
 /* Main title*/
 
-h1{
+h1 {
 font-family: 'winter resistance';
 font-size: 150px; 
 text-align: center;
@@ -18,7 +18,7 @@ letter-spacing: 10px;
 
 /*  SubTitle "Natures Creation */
 
-h2{
+h2 {
 font-family: 'clean up your mess';
 font-size: 50px;
 color: white;
@@ -28,21 +28,21 @@ letter-spacing: 10px
 /* Artist Credit*/
 
 
-h3{
+h3 {
         font-family: 'clean up your mess';
         font-size: 30px;
         text-align: center;
         color:white;
 }
 
-h3:hover{
+h3:hover {
         text-decoration: underline;
  }
 
 
 
 /* Name of photos*/
-p{
+p {
 font-family: 'clean up your mess';
 font-size: 50px;
 text-align: center;
@@ -50,7 +50,7 @@ color:white;
 text-decoration: underline;
 }
 
-p:hover{
+p:hover {
 
         color: #123024;
         text-decoration:line-through;
