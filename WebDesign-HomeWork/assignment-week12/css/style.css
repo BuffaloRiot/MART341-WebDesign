@@ -95,7 +95,7 @@ border-color: white;
         overflow: scroll;
 }
 
-
+/* specs for my images being displayed + padding specs*/
 .photo img{
 
         width: 100%;
@@ -105,6 +105,8 @@ border-color: white;
 }
 
 .my-box{
-        padding-top: ;
-        padding-bottom
+        padding-top: 2em;
+        padding-bottom: 2em ;
+        padding-right: 2em;
+        padding-left: 2em; 
 }
