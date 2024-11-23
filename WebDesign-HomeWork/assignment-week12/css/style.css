@@ -1,0 +1,110 @@
+
+/* these are all my CSS stylizing functions*/
+
+body{
+    background-color: #123024;  /* Color name: Phthalo*/  
+}
+
+/* Main title*/
+
+h1 {
+font-family: 'winter resistance';
+font-size: 150px; 
+text-align: center;
+color: #123024;
+letter-spacing: 10px;
+}
+
+
+/*  SubTitle "Natures Creation */
+
+h2 {
+font-family: 'clean up your mess';
+font-size: 50px;
+color: white;
+letter-spacing: 10px
+}
+
+/* Artist Credit*/
+
+
+h3 {
+        font-family: 'clean up your mess';
+        font-size: 30px;
+        text-align: center;
+        color:white;
+}
+
+h3:hover {
+        text-decoration: underline;
+ }
+
+
+
+/* Name of photos*/
+p {
+font-family: 'clean up your mess';
+font-size: 50px;
+text-align: center;
+color:white;
+text-decoration: underline;
+}
+
+p:hover {
+
+        color: #123024;
+        text-decoration:line-through;
+}
+
+
+
+
+/* This is title background specs*/
+
+.heading-container{
+
+width: 100%;
+background-color: black;
+border-style: solid;
+border-width: 5px;
+border-color: white;
+
+}
+
+
+
+/* These are my photo section specs*/
+.photoshoot-container{
+
+        width: 30%; 
+        min-height: auto;
+        max-height: auto;
+        padding: 15px 30px 30px 30px;
+        margin: 20px;
+        background-color: black;
+        box-sizing: border-box;
+        text-align: center;
+        border-color: white;
+        border-style: double; /* I decided to add a groove border */
+        border-width: 5px;
+        float: left;
+       
+}
+
+.overflow-scroll{
+        overflow: scroll;
+}
+
+
+.photo img{
+
+        width: 100%;
+        height: auto;
+        display: block;
+
+}
+
+.my-box{
+        padding-top: ;
+        padding-bottom
+}

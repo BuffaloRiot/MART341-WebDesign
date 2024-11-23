@@ -1,0 +1,18 @@
+
+/* These are my font specs */ 
+
+
+@font-face {
+    font-family: 'winter-resistance';
+    src: url('./fonts/winter-resistance.otf') format('opentype');
+    font-weight: 900;
+   
+    }
+
+
+@font-face {
+    font-family: 'clean-up-your-mess';
+    src: url('./fonts/clean-up-yourmess.ttf') format('truetype');
+    font-weight: 900;
+    
+}
