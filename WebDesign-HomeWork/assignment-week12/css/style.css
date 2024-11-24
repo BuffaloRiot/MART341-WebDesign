@@ -46,6 +46,7 @@ h3:hover {
         text-align: center;
         color:white;
         text-decoration: underline;
+       
  }
 
  h4:hover{
@@ -74,19 +75,22 @@ p:hover {
 
 
 /* this is my navagation bar specs */
-.menu{ 
+.menu { 
         background-color: black;
-        margin: 10px;
+        margin: 5px;
         padding: 2px;
+        border-style: solid;
         border-color: white;
-        border-width: 5px;
-        text-align: center;
+        border-width: 2px;
+        
+        
 }
 
-.display-inline{
+.display-inline-block{
         display: inline-block;
         
 }
+
 
 
 
