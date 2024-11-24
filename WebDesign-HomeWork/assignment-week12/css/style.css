@@ -40,6 +40,20 @@ h3:hover {
  }
 
 
+ h4{
+        font-family: 'clean up your mess';
+        font-size: 20px;
+        text-align: center;
+        color:white;
+        text-decoration: underline;
+ }
+
+ h4:hover{
+        color: #123024;
+        text-decoration: line-through;
+ }
+
+
 
 /* Name of photos*/
 p {
@@ -54,6 +68,24 @@ p:hover {
 
         color: #123024;
         text-decoration:line-through;
+}
+
+
+
+
+/* this is my navagation bar specs */
+.menu{ 
+        background-color: black;
+        margin: 10px;
+        padding: 2px;
+        border-color: white;
+        border-width: 5px;
+        text-align: center;
+}
+
+.display-inline{
+        display: inline-block;
+        
 }
 
 
