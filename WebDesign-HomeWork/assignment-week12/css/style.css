@@ -82,12 +82,14 @@ p:hover {
         border-style: solid;
         border-color: white;
         border-width: 2px;
-        
+        position: relative;
+        float:right;
         
 }
 
 .display-inline-block{
         display: inline-block;
+       
         
 }
 

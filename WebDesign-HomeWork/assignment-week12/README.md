@@ -25,8 +25,10 @@ I'll be continuing adding functions to my assignment from last week.
 
 ## Display: Inline / Inline-block – Specify how elements are displayed in relation to others.
 
+        Done: I had displayed a hypothetical navagation bar, my sections are displayed inline-block so people could hypothetically navagate. Although I didn't know how to center so I floated them to the right. 
 
 ## Dropdown – Create a dropdown menu for navigation or content organization.
-
+        This was extremely stressful trying to figure out. I wasn't able to do this. 
 
 ## Position – Control the placement of elements with properties like absolute, relative, or fixed.
+        Done: I had added realtive postioning to my navagation bar at the top of my webpage. 
