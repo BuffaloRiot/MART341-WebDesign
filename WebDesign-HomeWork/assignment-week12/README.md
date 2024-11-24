@@ -17,10 +17,11 @@ I'll be continuing adding functions to my assignment from last week.
         Done: I had added double borders to my photo borders and header 
 
 ## Margin – Adjust the space outside an element, creating separation from other elements.
-
+        
+        Done: I had adjusted the margins to my images with the top and bottom being auto, with the sides at 22px. Created a well spaces visual. 
 
 ## Padding – Set the space inside an element, between its content and border.
-
+        Done: I had created padding specs for only my images, so they all share the same specs. 
 
 ## Display: Inline / Inline-block – Specify how elements are displayed in relation to others.
 

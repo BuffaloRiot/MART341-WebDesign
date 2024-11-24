@@ -109,4 +109,9 @@ border-color: white;
         padding-bottom: 2em ;
         padding-right: 2em;
         padding-left: 2em; 
+
+        margin-top: auto;
+        margin-bottom: auto;
+        margin-right: 22px; 
+        margin-left: 22px;
 }
