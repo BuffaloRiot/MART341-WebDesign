@@ -7,7 +7,7 @@
 
 @font-face {
     font-family: 'poster';
-    src: url('./fonts/poster.ttf') format('TrueType');
+    src: url('./fonts/poster.ttf') format('truetype');
     font-weight: 900;
    
     }

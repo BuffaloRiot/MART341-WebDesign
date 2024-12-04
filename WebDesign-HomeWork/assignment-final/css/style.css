@@ -9,11 +9,6 @@ body { background-color: #ffc40c;    /* Mikado Yellow */
 }
 
 
-header { 
-
-
-}
-
 
 
 /* These are my specs for my typography designs*/ 
@@ -22,7 +17,8 @@ header {
 h1 {   /* title */
     font-family: 'poster';
     font-size: 90px;
-    font-color: black;
+    color: black;
+    text-align: center
 
 }
 
@@ -32,4 +28,39 @@ h2 { /*subheadings*/
     font-family: 'poster';
 
 
+}
+
+p{ /*discription text*/
+
+
+
+}
+
+
+
+
+
+/* header navagation bar */
+
+
+header { 
+
+    background-color: red;
+    border-width: 5px;
+    border-color:black;
+    border-style: solid;
+    height: 80px;
+    width: auto;
+
+}
+
+ul {
+    
+    text-align: center;
+    padding: 10px;
+    font-size: 100%;
+}
+
+li{
+  display: inline-block;
 }
