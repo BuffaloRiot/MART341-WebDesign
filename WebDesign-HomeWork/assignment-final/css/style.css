@@ -1,0 +1,35 @@
+
+
+
+
+/* Background information */
+
+body { background-color: #ffc40c;    /* Mikado Yellow */
+
+}
+
+
+header { 
+
+
+}
+
+
+
+/* These are my specs for my typography designs*/ 
+
+
+h1 {   /* title */
+    font-family: 'poster';
+    font-size: 90px;
+    font-color: black;
+
+}
+
+
+h2 { /*subheadings*/
+
+    font-family: 'poster';
+
+
+}

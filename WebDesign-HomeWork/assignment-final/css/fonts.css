@@ -1,0 +1,13 @@
+
+
+
+
+
+/* font family for my title a other headings */
+
+@font-face {
+    font-family: 'poster';
+    src: url('./fonts/poster.ttf') format('TrueType');
+    font-weight: 900;
+   
+    }
