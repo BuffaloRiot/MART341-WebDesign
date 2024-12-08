@@ -5,9 +5,9 @@
 
 /* font family for my title a other headings */
 
-@font-face {
-    font-family: 'poster';
-    src: url('./fonts/poster.ttf') format('truetype');
+@font-face{
+    font-family: 'courier-punk-version';
+    src: url('./fonts/courier-punk-version.ttf') format('truetype');
     font-weight: 900;
-   
+
     }

@@ -1,7 +1,7 @@
 Incorporate Required Elements:
 
 
-Three or more pages.
+Three or more pages
 A clear, well-organized layout with strong usability.
 Use of an external stylesheet.
 Apply at least one font.

@@ -15,7 +15,7 @@ body { background-color: #ffc40c;    /* Mikado Yellow */
 
 
 h1 {   /* title */
-    font-family: 'poster';
+    font-family: 'courier-punk-version';
     font-size: 90px;
     color: black;
     text-align: center
@@ -25,12 +25,12 @@ h1 {   /* title */
 
 h2 { /*subheadings*/
 
-    font-family: 'poster';
+    font-family:'courier-punk-version';
 
 
 }
 
-p{ /*discription text*/
+p { /*discription text*/
 
 
 
