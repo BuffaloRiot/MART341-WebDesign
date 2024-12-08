@@ -14,18 +14,15 @@ body{ background-color: #ffc40c;    /* Mikado Yellow */
 /* These are my specs for my typography designs accross all pages */ 
 
 
-h1{   /* title */
-    font-family: 'courier punk version';
+h1 {   /* title */
+    font-family: 'riot';
     font-size: 90px;
     color: black;
     text-align: center
 
 }
 
-h2{ /*subheadings*/
-
-    font-family:'courier punk version';
-
+h2 { /*subheadings*/
 
 }
 
@@ -102,6 +99,6 @@ p{ /*discription text for bio */
     text-align: center;
     border-style: double; /* I decided to add a groove border */
     border-width: 2px;
-    font-size: 25px;
+    font-size: 20px;
    
 }

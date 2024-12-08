@@ -5,9 +5,8 @@
 
 /* font family for my title a other headings */
 
-@font-face{
-    font-family: 'courier-punk-version';
-    src: url('./fonts/courier-punk-version.ttf') format('truetype');
-    font-weight: 900;
+@font-face {
+    font-family:'riot';
+    src: url('./fonts/Riot.ttf') format('truetype');
 
     }
