@@ -4,44 +4,33 @@
 
 /* Background information */
 
-body { background-color: #ffc40c;    /* Mikado Yellow */
+body{ background-color: #ffc40c;    /* Mikado Yellow */
 
 }
 
 
 
 
-/* These are my specs for my typography designs*/ 
+/* These are my specs for my typography designs accross all pages */ 
 
 
-h1 {   /* title */
-    font-family: 'courier-punk-version';
+h1{   /* title */
+    font-family: 'courier punk version';
     font-size: 90px;
     color: black;
     text-align: center
 
 }
 
+h2{ /*subheadings*/
 
-h2 { /*subheadings*/
-
-    font-family:'courier-punk-version';
-
-
-}
-
-p { /*discription text*/
-
+    font-family:'courier punk version';
 
 
 }
-
-
-
 
 
 /* header navagation bar */
-
 
 header { 
 
@@ -63,4 +52,56 @@ ul {
 
 li{
   display: inline-block;
+}
+
+
+
+
+
+
+/* bio page informations*/
+
+
+h3{ /* bio font specs */
+    color: white;
+}
+
+p{ /*discription text for bio */
+    color: white;
+
+
+
+}
+
+.bio-container{
+    width: 35%; 
+    min-height: auto;
+    max-height: auto;
+    padding: 10px 10px 10px 10px;
+    margin: 25px;
+    background-color: black;
+    box-sizing: border-box;
+    text-align: center;
+    border-style: double; /* I decided to add a groove border */
+    border-width: 2px;
+    
+}
+
+.overflow-scroll{
+    overflow: scroll;
+}
+
+.paragraph-bio{
+    width: 50%; 
+    min-height: auto;
+    max-height: auto;
+    padding: 50px 25px 50px 25px;
+    margin: 25px;
+    background-color: black;
+    box-sizing: border-box;
+    text-align: center;
+    border-style: double; /* I decided to add a groove border */
+    border-width: 2px;
+    font-size: 25px;
+   
 }
