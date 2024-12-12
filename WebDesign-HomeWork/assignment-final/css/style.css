@@ -5,6 +5,8 @@
 /* Background information */
 
 body{ background-color: #ffc40c;    /* Mikado Yellow */
+    
+    
 
 }
 
@@ -14,7 +16,7 @@ body{ background-color: #ffc40c;    /* Mikado Yellow */
 /* These are my specs for my typography designs accross all pages */ 
 
 
-h1 {   /* title */
+h1{   /* title */
     font-family: 'riot';
     font-size: 90px;
     color: black;
@@ -22,25 +24,31 @@ h1 {   /* title */
 
 }
 
-h2 { /*subheadings*/
+h2{ /*subheadings*/
+    font-family:'riot';
+    
+}
 
+hr{
+    margin:5px;
+    color: black;
 }
 
 
 /* header navagation bar */
 
-header { 
+header{ 
 
     background-color: red;
     border-width: 5px;
     border-color:black;
     border-style: solid;
     height: 80px;
-    width: auto;
+    width: 100%;
 
 }
 
-ul {
+ul{
     
     text-align: center;
     padding: 10px;
@@ -75,12 +83,14 @@ p{ /*discription text for bio */
     min-height: auto;
     max-height: auto;
     padding: 10px 10px 10px 10px;
-    margin: 25px;
+    margin: 10px;
     background-color: black;
     box-sizing: border-box;
     text-align: center;
     border-style: double; /* I decided to add a groove border */
     border-width: 2px;
+    display: inline-block; 
+
     
 }
 
@@ -94,13 +104,15 @@ p{ /*discription text for bio */
     width: 50%; 
     min-height: auto;
     max-height: auto;
-    padding: 50px 25px 50px 25px;
-    margin: 25px;
+    padding: 10px 10px 10px 10px;
+    margin: 10px;
     background-color: black;
     box-sizing: border-box;
     text-align: center;
     border-style: double; /* I decided to add a groove border */
     border-width: 2px;
     font-size: 20px;
+    display: inline-block; 
+    float:left;
    
 }
